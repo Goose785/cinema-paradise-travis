@@ -7,7 +7,7 @@ Cinema Paradiso, with a frontend built in React & Redux and a backend built in D
 
 ## Live Demo
 
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
 Check out [FRONTEND LIVE DEMO](https://cinema-front.goose785.repl.co) here!!
 
@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://cinema-back.goose785.repl.co) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/DivyashaRoka/cinema-paradise-div
+git clone
 ```
 
 2. Backend setting
