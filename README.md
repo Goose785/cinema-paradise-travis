@@ -22,10 +22,10 @@ Check out [API LIVE DEMO](https://cinema-back.goose785.repl.co) here!!
 
 ## How to Install
 
-1. Git Clone
+1. Git Clone https://github.com/Goose785/cinema-paradise-travis.git
 
 ```
-git clone
+git clone https://github.com/Goose785/cinema-paradise-travis.git
 ```
 
 2. Backend setting
